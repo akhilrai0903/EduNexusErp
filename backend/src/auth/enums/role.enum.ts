@@ -1,0 +1,17 @@
+export enum Role {
+  SUPER_ADMIN = 'super_admin',
+  ADMIN = 'admin',
+  PRINCIPAL = 'principal',
+  VICE_PRINCIPAL = 'vice_principal',
+  TEACHER = 'teacher',
+  HEAD_TEACHER = 'head_teacher',
+  LIBRARIAN = 'librarian',
+  ACCOUNTANT = 'accountant',
+  NURSE = 'nurse',
+  SECURITY = 'security',
+  CLEANER = 'cleaner',
+  DRIVER = 'driver',
+  PARENT = 'parent',
+  STUDENT = 'student',
+  GUARDIAN = 'guardian',
+}
