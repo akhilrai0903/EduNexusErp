@@ -1,0 +1,17 @@
+export enum Relationship {
+  FATHER = 'father',
+  MOTHER = 'mother',
+  GRANDFATHER = 'grandfather',
+  GRANDMOTHER = 'grandmother',
+  UNCLE = 'uncle',
+  AUNT = 'aunt',
+  BROTHER = 'brother',
+  SISTER = 'sister',
+  COUSIN = 'cousin',
+  STEPFATHER = 'stepfather',
+  STEPMOTHER = 'stepmother',
+  ADOPTIVE_FATHER = 'adoptive_father',
+  ADOPTIVE_MOTHER = 'adoptive_mother',
+  LEGAL_GUARDIAN = 'legal_guardian',
+  OTHER = 'other',
+}
