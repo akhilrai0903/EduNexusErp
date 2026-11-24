@@ -1,0 +1,16 @@
+export enum ExamType {
+  UNIT_TEST = 'unit_test',
+  MID_TERM = 'mid_term',
+  FINAL_EXAM = 'final_exam',
+  QUARTERLY = 'quarterly',
+  HALF_YEARLY = 'half_yearly',
+  ANNUAL = 'annual',
+  PRACTICAL = 'practical',
+  ORAL = 'oral',
+  ASSIGNMENT = 'assignment',
+  PROJECT = 'project',
+  QUIZ = 'quiz',
+  MOCK_TEST = 'mock_test',
+  BOARD_EXAM = 'board_exam',
+  COMPETITIVE = 'competitive',
+}
